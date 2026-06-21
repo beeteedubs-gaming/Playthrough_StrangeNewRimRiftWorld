@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimEffectAR.RimEffectARSettings">
+		<reaperShipStates>
+			<keys>
+				<li>RE_ReaperLanding</li>
+			</keys>
+			<values>
+				<li>0.100000001</li>
+			</values>
+		</reaperShipStates>
+		<reaperShipPresences>
+			<keys>
+				<li>RE_Reaper</li>
+			</keys>
+			<values>
+				<li>500</li>
+			</values>
+		</reaperShipPresences>
+		<reaperShipColonistCount>
+			<keys>
+				<li>RE_ReaperLanding</li>
+			</keys>
+			<values>
+				<li>3</li>
+			</values>
+		</reaperShipColonistCount>
+		<reaperShipWealth>
+			<keys>
+				<li>RE_ReaperLanding</li>
+			</keys>
+			<values>
+				<li>100000</li>
+			</values>
+		</reaperShipWealth>
+		<reaperShipDistances>
+			<keys>
+				<li>RE_ReaperLanding</li>
+			</keys>
+			<values>
+				<li>90</li>
+			</values>
+		</reaperShipDistances>
+		<RE_reaperTimeIntervalMax>1239917</RE_reaperTimeIntervalMax>
+		<RE_reaperTimeIntervalMin>643380</RE_reaperTimeIntervalMin>
+	</ModSettings>
+</SettingsBlock>

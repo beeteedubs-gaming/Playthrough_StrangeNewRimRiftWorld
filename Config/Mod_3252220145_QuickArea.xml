@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QuickArea.Config">
+		<QA_FenceFirst>True</QA_FenceFirst>
+		<QA_Extra2 />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Replace_Stuff.Settings">
+		<hideNormalCoolers>True</hideNormalCoolers>
+		<bridgePrefNames>
+			<li>BTD_QuestSiteSubstructure</li>
+			<li>Bridge</li>
+			<li>AncientBridge</li>
+			<li>HeavyBridge</li>
+			<li>AncientHeavyBridge</li>
+			<li>VFEArch_BridgeSandstone</li>
+			<li>VFEArch_BridgeGranite</li>
+			<li>VFEArch_BridgeLimestone</li>
+			<li>VFEArch_BridgeSlate</li>
+			<li>VFEArch_BridgeMarble</li>
+			<li>HeavyBridgeSandstone</li>
+			<li>HeavyBridgeGranite</li>
+			<li>HeavyBridgeLimestone</li>
+			<li>HeavyBridgeSlate</li>
+			<li>HeavyBridgeMarble</li>
+			<li>HeavyBridgeSteel</li>
+			<li>HeavyBridgePlasteel</li>
+			<li>VFEArch_ConcreteFoundation</li>
+			<li>DeepWaterBridgeSandstone</li>
+			<li>DeepWaterBridgeGranite</li>
+			<li>DeepWaterBridgeLimestone</li>
+			<li>DeepWaterBridgeSlate</li>
+			<li>DeepWaterBridgeMarble</li>
+			<li>sandPath</li>
+			<li>VGE_DamagedSubstructure</li>
+			<li>VFEI2_Creep</li>
+			<li>VFEI2_JellyFloor</li>
+			<li>VFEI2_RoyalJellyFloor</li>
+		</bridgePrefNames>
+	</ModSettings>
+</SettingsBlock>

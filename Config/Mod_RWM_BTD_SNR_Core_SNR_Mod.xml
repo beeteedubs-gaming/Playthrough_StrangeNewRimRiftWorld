@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SNR.SNR_Settings">
+		<groups>
+			<li>
+				<id>MABRG001</id>
+				<name>SNR Recipes</name>
+				<isSNR>True</isSNR>
+				<benchDefNames />
+			</li>
+			<li>
+				<id>MABRG002</id>
+				<name>Tailoring Recipes</name>
+				<benchDefNames>
+					<li>ElectricTailoringBench</li>
+				</benchDefNames>
+			</li>
+			<li>
+				<id>MABRG003</id>
+				<name>Machining Recipes</name>
+				<benchDefNames>
+					<li>TableMachining</li>
+					<li>ElectricSmithy</li>
+				</benchDefNames>
+			</li>
+			<li>
+				<id>MABRG004</id>
+				<name>Fabrication Recipes</name>
+				<benchDefNames>
+					<li>FabricationBench</li>
+				</benchDefNames>
+			</li>
+			<li>
+				<id>MABRG005</id>
+				<name>Rim-Effect Recipes</name>
+				<benchDefNames>
+					<li>RE_ManufacturingBench</li>
+				</benchDefNames>
+			</li>
+		</groups>
+		<nextGroupIdInt>6</nextGroupIdInt>
+	</ModSettings>
+</SettingsBlock>

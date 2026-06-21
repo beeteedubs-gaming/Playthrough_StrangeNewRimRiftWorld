@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SaveStorytellerSettings.Settings">
+		<presets>
+			<li>
+				<name>BTD</name>
+				<difficulty>
+					<threatScale>1.54999995</threatScale>
+					<allowBigThreats>True</allowBigThreats>
+					<allowIntroThreats>True</allowIntroThreats>
+					<allowCaveHives>True</allowCaveHives>
+					<allowViolentQuests>True</allowViolentQuests>
+					<babiesAreHealthy>True</babiesAreHealthy>
+					<predatorsHuntHumanlikes>True</predatorsHuntHumanlikes>
+					<scariaRotChance>0.741999984</scariaRotChance>
+					<colonistMoodOffset>-5</colonistMoodOffset>
+					<tradePriceFactorLoss>0.100000001</tradePriceFactorLoss>
+					<cropYieldFactor>0.949999988</cropYieldFactor>
+					<mineYieldFactor>0.949999988</mineYieldFactor>
+					<butcherYieldFactor>0.899999976</butcherYieldFactor>
+					<fishingYieldFactor>0.899999976</fishingYieldFactor>
+					<researchSpeedFactor>0.949999988</researchSpeedFactor>
+					<diseaseIntervalFactor>0.949999988</diseaseIntervalFactor>
+					<enemyReproductionRateFactor>1</enemyReproductionRateFactor>
+					<playerPawnInfectionChanceFactor>1</playerPawnInfectionChanceFactor>
+					<manhunterChanceOnDamageFactor>1</manhunterChanceOnDamageFactor>
+					<deepDrillInfestationChanceFactor>1.10000002</deepDrillInfestationChanceFactor>
+					<wastepackInfestationChanceFactor>1.5</wastepackInfestationChanceFactor>
+					<nomadicMineableResourcesFactor>0.75</nomadicMineableResourcesFactor>
+					<foodPoisonChanceFactor>1.10000002</foodPoisonChanceFactor>
+					<maintenanceCostFactor>1</maintenanceCostFactor>
+					<enemyDeathOnDownedChanceFactor>0.48999998</enemyDeathOnDownedChanceFactor>
+					<adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+					<adaptationEffectFactor>0.699999988</adaptationEffectFactor>
+					<questRewardValueFactor>1</questRewardValueFactor>
+					<classicMortars>False</classicMortars>
+					<fixedWealthMode>True</fixedWealthMode>
+					<fixedWealthTimeFactor>2.4000001</fixedWealthTimeFactor>
+					<friendlyFireChanceFactor>0.149999991</friendlyFireChanceFactor>
+					<allowInstantKillChance>0.199999988</allowInstantKillChance>
+					<childRaidersAllowed>False</childRaidersAllowed>
+					<studyEfficiencyFactor>0.899999976</studyEfficiencyFactor>
+					<anomalyPlaystyleDef>Disabled</anomalyPlaystyleDef>
+				</difficulty>
+			</li>
+		</presets>
+	</ModSettings>
+</SettingsBlock>

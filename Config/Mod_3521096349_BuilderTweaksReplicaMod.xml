@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BuilderTweaksReplica.BuilderTweaksReplicaSettings">
+		<EnableCancelDraggingWithRightClick>False</EnableCancelDraggingWithRightClick>
+		<OnlyCancelSameKind>False</OnlyCancelSameKind>
+	</ModSettings>
+</SettingsBlock>
