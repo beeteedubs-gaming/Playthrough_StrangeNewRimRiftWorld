@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowHair.Settings">
+		<version>1.1.0</version>
+		<UseDontShaveHead>False</UseDontShaveHead>
+		<hairDefNames />
+		<settingEntries>
+			<li>
+				<conditionDefNames>
+					<li>Drafted</li>
+					<li>InVacuum</li>
+				</conditionDefNames>
+				<notConditionDefNames />
+				<hatState>HidesAllHair</hatState>
+				<hatDefNames>
+					<li>SNR_SFhelm</li>
+					<li>SNR_OEreconhelm</li>
+					<li>VAE_Headgear_Balaclava</li>
+					<li>RE_Apparel_AllianceHelmet</li>
+					<li>RE_Apparel_CapacitorHelmet</li>
+					<li>RE_AssassinsHood</li>
+					<li>Apparel_ArmorHelmetCataphract</li>
+					<li>VAE_Headgear_HAZMATMask</li>
+					<li>RE_Apparel_HeavyAllianceHelmet</li>
+					<li>RE_Apparel_LightAllianceHelmet</li>
+					<li>Apparel_PowerArmorHelmet</li>
+					<li>Apparel_ArmorHelmetMechCommander</li>
+					<li>Apparel_ArmorHelmetMechlordHelmet</li>
+					<li>RE_Apparel_N7AdeptMask</li>
+					<li>REN7_Apparel_N7HeavyHelmet</li>
+					<li>REN7_Apparel_N7Helmet</li>
+					<li>Apparel_ArmorHelmetCataphractPrestige</li>
+					<li>VAE_Headgear_RoyalSiegeHelmet</li>
+					<li>VGE_Apparel_VacsuitHelmet_Prestige</li>
+					<li>Apparel_VacsuitHelmet</li>
+					<li>VAE_Headgear_HeavyMarineHelmet</li>
+				</hatDefNames>
+				<useDontShaveHead>False</useDontShaveHead>
+			</li>
+			<li>
+				<conditionDefNames />
+				<notConditionDefNames />
+				<hatState>ShowsHair</hatState>
+				<hatDefNames>
+					<li>RE_Apparel_AsariJusticarCrown</li>
+					<li>RE_Apparel_AsariRespirator</li>
+				</hatDefNames>
+				<useDontShaveHead>False</useDontShaveHead>
+			</li>
+		</settingEntries>
+	</ModSettings>
+</SettingsBlock>

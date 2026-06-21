@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CustomPortraits.CustomPortraitsModSettings">
+		<scaleSize>1.79999995</scaleSize>
+		<offsetZ>-0.151116684</offsetZ>
+		<portraitScaleY>75</portraitScaleY>
+		<nlCustomPortraitOffsetDict>
+			<keys>
+				<li>Human</li>
+			</keys>
+			<values>
+				<li />
+			</values>
+		</nlCustomPortraitOffsetDict>
+	</ModSettings>
+</SettingsBlock>

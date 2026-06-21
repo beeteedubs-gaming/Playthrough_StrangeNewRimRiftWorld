@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PacksAreNotBelts.PacksAreNotBeltsSettings">
+		<nudistsIgnoreUtility>True</nudistsIgnoreUtility>
+		<utilityIgnoresDamage>True</utilityIgnoresDamage>
+		<useLegacySmoke>True</useLegacySmoke>
+		<useArtifactLayer>True</useArtifactLayer>
+		<useAmmoLayerBandolier>True</useAmmoLayerBandolier>
+		<useMechLayer>True</useMechLayer>
+		<useAmmoLayer>True</useAmmoLayer>
+		<useAmmoLayerAccessories>True</useAmmoLayerAccessories>
+		<useLifeSupportLayerGravships>True</useLifeSupportLayerGravships>
+	</ModSettings>
+</SettingsBlock>

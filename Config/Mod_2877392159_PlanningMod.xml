@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+		<lastLoadedPlans>
+			<li>ST Nova 4eMTp</li>
+			<li>ST NovaMAX 6eMT</li>
+			<li>ST Shangri-MAX 6eMT</li>
+			<li>ST Shangri-MID 4eMT</li>
+		</lastLoadedPlans>
+		<planDesignationSettings>
+			<keys>
+				<li>PlanWall</li>
+				<li>PlanFloors</li>
+				<li>PlanDoors</li>
+				<li>PlanObjects</li>
+			</keys>
+			<values>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+			</values>
+		</planDesignationSettings>
+	</ModSettings>
+</SettingsBlock>
